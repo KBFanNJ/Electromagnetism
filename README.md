@@ -2,7 +2,7 @@
 
 A simple Streamlit app template for you to modify!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://electromagnetism-x9m6nmmbdxrcdpyzbpwv6g.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://electromagnetism-ydupfqhj2smsxgrzacno25.streamlit.app/)
 
 ### How to run it on your own machine
 
